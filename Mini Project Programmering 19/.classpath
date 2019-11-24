@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Chat_server.miniproject19.programming.3rd_semester/src"/>
+	<classpathentry kind="lib" path="out/artifacts/Chat_server_miniproject19_programming_3rd_semester_jar/Chat_server.miniproject19.programming.3rd_semester.jar"/>
+	<classpathentry kind="output" path="out/production/Chat_server.miniproject19.programming.3rd_semester"/>
+</classpath>
